@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url('../images/BG gif.gif');
+  background-color: #DD5B5B;
   background-size: cover;
   height: 100vh;
   padding:0;
@@ -19,10 +19,12 @@ body {
 h1, h2, h3, h4, p {
   margin-top: 0;
   margin-bottom: 1em;
+  color: white;
 }
 
 h1, h2 {
   font-weight: 700;
+  color: white;
 }
 
 #wrapper {
@@ -100,6 +102,7 @@ h1, h2 {
   font-weight: 600;
   letter-spacing: 1px;
   margin-bottom: 2rem;
+  
 }
 
 #work h3 a, #page h3 a {
@@ -154,7 +157,7 @@ h1, h2 {
 
 .page-item .caption {
   font-size: .75rem;
-  color: #666666;
+  color: #FFFFFF;
   display: block;
   width: 100%;
   margin-top: .5rem;
